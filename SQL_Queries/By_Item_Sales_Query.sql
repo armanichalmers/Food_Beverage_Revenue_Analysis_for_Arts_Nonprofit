@@ -27,5 +27,5 @@ By_Item.Gross_Sales - (By_Item.SKU * By_Item.Items_Sold) as Profit,
 From By_Item JOIN LAT on LAT.Act=By_Item.Event
 JOIN Date_Calendar on Date_Calendar.Date = LAT.Event_Start
 Where By_Item.Gross_Sales > 0
-and Date_Calendar.Quarter = 4
+and Date_Calendar.Month = 12
 and Date_Calendar.Fiscal_Year = 2026
