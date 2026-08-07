@@ -40,7 +40,7 @@ The Food & Beverage department required consistent, data-driven insights to answ
  
  <h2>📊 SALES ANALYSIS: By Item Sales</h2>
  
-**SQL Query:** [By Item Sales Query](SQL_Queries/top_event_by_genre.sql)
+**SQL Query:** [By Item Sales Query](SQL_Queries/By_Item_Sales_Query.sql)
  
 <b>Business Scenario</b>
  
