@@ -9,7 +9,7 @@ LAT.Genre,
 count(distinct By_Trans.Transaction_ID) as Transaction_Count
 From By_Trans JOIN LAT on LAT.Act=By_Trans.Event
 JOIN Date_Calendar on Date_Calendar.Date=LAT.Event_Start
-Where Date_Calendar.Month = 9 
+Where Date_Calendar.Month = 12
 and Date_Calendar.Fiscal_Year = 2026
 Group By By_Trans.Event, LAT.Genre
 Order By Transaction_Count desc
