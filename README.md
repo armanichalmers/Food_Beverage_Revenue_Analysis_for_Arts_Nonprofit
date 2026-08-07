@@ -132,15 +132,15 @@ This multi-page query identifies the top-selling item within a selected food and
  
 <b>Business Scenario</b>
  
-Executive leadership required a quarterly sales report aligned to the company's July–June fiscal year.
+Executive leadership required a Month-to-Date sales report aligned to the company's July–June fiscal year.
  
 <b>Project Overview</b>
  
-This query generates a quarterly sales report by combining box office revenue with food and beverage sales into a single executive reporting solution.
+This query generates a Month-to-Date sales report by combining box office revenue with food and beverage sales into a single executive reporting solution.
  
 <b>Business Value</b>
  
-- Monitor quarterly revenue performance
+- Monitor Month-to-Date revenue performance
 - Analyze fiscal-year trends
 - Compare revenue streams
 - Support executive reporting
@@ -162,5 +162,6 @@ The analyses within this project were used to support weekly executive reporting
 - Developed SQL queries for executive reporting
 - Translated raw transactional data into business insights
 - Analyzed revenue drivers to support business decision-making
+- Supported the development of an executive Power BI dashboard using the SQL reporting outputs
  
 </p>
